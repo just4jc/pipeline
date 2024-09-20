@@ -59,7 +59,7 @@
         <activeByDefault>true</activeByDefault>
       </activation>
       <properties>
-        <sparkVersion>2.0.1</sparkVersion>
+        <sparkVersion>2.2.0</sparkVersion>
       </properties>
       <dependencies>
           <dependency>
